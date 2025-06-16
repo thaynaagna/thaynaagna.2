@@ -1,4 +1,4 @@
-## 👋 Olá! Eu sou a Thayná Ágna
+## 👋 Seja bem-vindo(a)! Meu nome é Thayná 💻
 
 💻 Apaixonada por tecnologia, desenvolvimento e inovação.
 
