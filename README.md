@@ -1,8 +1,9 @@
 ## 👋 Seja bem-vindo(a)! Meu nome é Thayná 💻
+## 👋 Seja bem-vindo(a)! Meu nome é Thayná 💻
 
-<img align="right" height="160" src="https://media.giphy.com/media/Y4ak9Ki2GZCbJxAnJD/giphy.gif" alt="Animated coding" />
+<img align="right" height="160" src="https://avatars.githubusercontent.com/u/thaynaagna?v=4" alt="Foto de Thayná – Menina com cabelo cacheado" />
 
-💼 **Profissão:** Auxiliar Administrativo  
+💼 **Profissão:** Auxiliar Administrativo | Desenvolvedora Full Stack (em formação)  
 📚 **Atualmente estudando:** Python e Desenvolvimento Full Stack  
 ✨ **Habilidades:**  
 - Computação básica  
@@ -14,7 +15,7 @@
 
 ## 🚀 Sobre mim
 
-Sou uma profissional dedicada à área administrativa, sempre buscando aprender e crescer! Atualmente, estou expandindo meus conhecimentos em tecnologia, estudando Python e desenvolvimento Full Stack.  
+Sou uma profissional dedicada à área administrativa, sempre buscando aprender e crescer! Atualmente, estou expandindo meus conhecimentos em tecnologia, estudando Python e desenvolvimento Full Stack.[...]
 Acredito no poder da organização, da comunicação e da criatividade — tanto no trabalho quanto na vida!
 
 ---
@@ -36,3 +37,5 @@ Sinta-se à vontade para entrar em contato ou visitar meu perfil para acompanhar
 <!--
 Personalize ainda mais: adicione seu LinkedIn, Instagram, projetos ou conquistas abaixo quando quiser!
 -->
+
+
