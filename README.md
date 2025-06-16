@@ -7,10 +7,10 @@
 ✨ Busco sempre aprender, evoluir e transformar ideias em soluções.
 
 ### 🔧 Tecnologias que estou trabalhando:
-- Python
-- HTML e CSS
-- JavaScript
-- Automação com Selenium
-- Banco de Dados (SQL)
+- 🐍 Python
+- 🌐 HTML e CSS
+- 💛 JavaScript
+- 🤖 Automação com Selenium
+- 🗄️ Banco de Dados (SQL)
 
 - ✨ **“A tecnologia move o mundo. E eu quero fazer parte dessa transformação.”** ✨
