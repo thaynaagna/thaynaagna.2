@@ -1,5 +1,4 @@
 ## 👋 Seja bem-vindo(a)! Meu nome é Thayná 💻
-## 👋 Seja bem-vindo(a)! Meu nome é Thayná 💻
 
 <img align="right" height="160" src="https://avatars.githubusercontent.com/u/thaynaagna?v=4" alt="Foto de Thayná – Menina com cabelo cacheado" />
 
