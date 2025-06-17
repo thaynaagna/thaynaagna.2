@@ -1,5 +1,4 @@
 ## 👋 Seja bem-vindo(a)! Meu nome é Thayná 💻
-<img src="https://i.imgur.com/rTf1H9B.png" width="200px">
 
 💼 **Profissão:** Auxiliar Administrativo | Desenvolvedora Full Stack (em formação)  
 📚 **Atualmente estudando:** Python e Desenvolvimento Full Stack  
