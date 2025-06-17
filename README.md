@@ -1,9 +1,5 @@
 ## 👋 Seja bem-vindo(a)! Meu nome é Thayná 💻
 
-<img src="https://images.unsplash.com/photo-1519125323398-675f0ddb6308?auto=format&fit=crop&w=800&q=80" alt="Imagem de capa decorativa" width="100%" style="border-radius:12px; margin-bottom: 16px;" />
-
-<img align="right" height="160" src="https://avatars.githubusercontent.com/u/thaynaagna?v=4" alt="Foto de Thayná – Menina com cabelo cacheado" />
-
 💼 **Profissão:** Auxiliar Administrativo | Desenvolvedora Full Stack (em formação)  
 📚 **Atualmente estudando:** Python e Desenvolvimento Full Stack  
 ✨ **Habilidades:**  
