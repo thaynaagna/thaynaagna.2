@@ -4,7 +4,6 @@
 📚 **Atualmente estudando:** Python e Desenvolvimento Full Stack  
 ✨ **Habilidades:**  
 - Computação 
-- Espanhol 
 - Fotografia  
 - Marketing  
 
