@@ -2,6 +2,7 @@
 
 💼 **Profissão:** Auxiliar Administrativo | Desenvolvedora Full Stack (em formação)  
 📚 **Atualmente estudando:** Python e Desenvolvimento Full Stack  
+
 ✨ **Habilidades:**  
 - Computação 
 - Fotografia  
